@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá, Mundo! 👋
+
+- 🌱Atualmente estou estudando Python (nível iniciante/intermediário)
+- 🤔Estou buscando participar de projetos práticos utilizando linguagem Python ou desenvolvimento WEB
+- 📫Como me contatar: www.linkedin.com/in/pedro-andre-
 
 <!--
 **pedroleao09/pedroleao09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
